@@ -4,8 +4,8 @@
 ### 🚀 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim
 Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde modern web teknolojileri ve python ile çalışmalar yapıyorum.
 
-- 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**,**Python**
-- 🌱 Öğrenmeye devam ettiklerim: **Java**,**Python**
+- 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**,**Python**,**C++**
+- 🌱 Öğrenmeye devam ettiklerim: **Java**,**Python**,**C++**
 - 💬 Bana şunlar hakkında soru sorabilirsin: **Başlangıç seviye kodlama ve üniversite hayatı**
 - 📫 Bana ulaşın: [aslihangenc6@gmail.com](mailto:aslihangenc6@gmail.com)
 
